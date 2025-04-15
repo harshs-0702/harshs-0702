@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://github.com/harshs-0702" target="blank"><img align="center" src="https://github.com/harshs-0702/harshs-0702/blob/main/github.jpeg" alt="simplified_learner" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-sharma-773a60235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-sharma-773a60235" height="30" width="40" /></a>
-<a href="https://twitter.com/sharmahs6016278" target="blank"><img align="center" src="https://github.com/harshs-0702/harshs-0702/blob/main/x.png" alt="sharmahs6016278" height="30" width="40" /></a>
+<a href="https://twitter.com/sharmahs6016278" target="blank"><img align="center" src="https://github.com/harshs-0702/harshs-0702/blob/main/x1.jpeg" alt="sharmahs6016278" height="30" width="40" /></a>
   
 </p>
 
