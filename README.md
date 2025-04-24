@@ -138,7 +138,7 @@
   </td>
   <td align="Center" width="25%">   
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" >
-        <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"">
+        <img height="64px" width="64px" src="https://github.com/harshs-0702/harshs-0702/blob/main/firebase.png" alt="firebase"">
       </a>
       <br>Firebase
   </td>
