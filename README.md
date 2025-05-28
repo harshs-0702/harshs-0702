@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Software Engineer from Jaipur, India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshs-0702" alt="harshs-0702" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sharmahs6016278" target="blank"><img src="https://img.shields.io/twitter/follow/sharmahs6016278?logo=twitter&style=for-the-badge" alt="sharmahs6016278" /></a> </p>
 
 - 🔭 I’m currently working on **Flash Cart**
