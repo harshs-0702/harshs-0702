@@ -10,13 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Harsh__Sharma](https://linktr.ee/Harsh__Sharma)
 
-- 💬 Ask me about **Hello, I'm Harsh Sharma, As a recent postgraduate with a degree in Computer Science, I’m passionate about coding and problem-solving. I have a strong foundation in programming languages like Python, Java, and C++, and I’ve worked on various projects during my academic career, including a web application built using JavaScript and React Native.
+- 💬 Ask me about Hello, I'm Harsh Sharma, As a recent postgraduate with a degree in Computer Science, I’m passionate about coding and problem-solving. I have a strong foundation in programming languages like Python, Java, and C++, and I’ve worked on various projects during my academic career, including a web application built using JavaScript and React Native.
 
    In addition to my academic work, where I contributed to developing software solutions that improved efficiency for small-scale businesses. I’m constantly learning and exploring new 
    technologies and currently diving into cloud computing and machine learning.
 
    I’m excited to begin my career as a Software Engineer and am particularly interested in roles that allow me to apply my skills in full-stack development, collaborate with teams, and 
-   continue growing in areas like AI and data science**
+   continue growing in areas like AI and data science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
