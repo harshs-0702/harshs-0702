@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Harsh__Sharma](https://linktr.ee/Harsh__Sharma)
 
